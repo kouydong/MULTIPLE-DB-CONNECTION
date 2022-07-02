@@ -1,4 +1,4 @@
-package com.example.dbtest2.dto;
+package com.example.multipleDbConnection.dto;
 
 import lombok.Getter;
 import lombok.Setter;

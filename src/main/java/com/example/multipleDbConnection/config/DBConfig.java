@@ -1,4 +1,4 @@
-package com.example.dbtest2.config;
+package com.example.multipleDbConnection.config;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;

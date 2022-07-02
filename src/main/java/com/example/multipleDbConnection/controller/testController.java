@@ -1,8 +1,7 @@
-package com.example.dbtest2.controller;
+package com.example.multipleDbConnection.controller;
 
-import com.example.dbtest2.service.DbtestService;
+import com.example.multipleDbConnection.service.DbtestService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,8 +1,7 @@
-package com.example.dbtest2.service;
+package com.example.multipleDbConnection.service;
 
-import com.example.dbtest2.dto.TestDto;
+import com.example.multipleDbConnection.dto.TestDto;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
